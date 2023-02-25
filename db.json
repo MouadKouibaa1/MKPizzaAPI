@@ -1,3 +1,222 @@
 {
-
+    "Pizzas": [{
+            "id": 1,
+            "name": "FORMAGGI",
+            "description": "Sauce tomate, bûche de chèvre, gorgonzola, mozzarella di bufala, parmigiano reggiano , tomates cerises, roquette.",
+            "price": 120,
+            "image": "https://cpizza.fr/wp-content/uploads/2022/02/formaggi-pizza-640x640.png",
+            "category": "PIZZAS RUCOLA"
+        },
+        {
+            "id": 2,
+            "name": "L'AUBERGINE",
+            "description": "Sauce tomate, bœuf haché, aubergines grillées et marinées, bûche de chèvre, mozzarella di bufala, tomates cerises, olives, roquette.",
+            "price": 130,
+            "image": "https://cpizza.fr/wp-content/uploads/2022/02/aubergine-pizza-640x640.png",
+            "category": "PIZZAS RUCOLA"
+        },
+        {
+            "id": 3,
+            "name": "TRUFFE",
+            "description": "Crème de truffes, jambon, champignons, mozzarella di bufala, parmigiano reggiano, tomates cerises, roquette.",
+            "price": 90,
+            "image": "https://cpizza.fr/wp-content/uploads/2022/02/truffe-pizza-640x640.png",
+            "category": "PIZZAS RUCOLA"
+        },
+        {
+            "id": 4,
+            "name": "CHICK'NAAN",
+            "description": "Crème fraîche, sauce indienne, cheddar fondu, poulet rôti, poivrons, piments jalapeños, oignons rouges, tomates cerises, filet de fromage La Vache qui rit®.",
+            "price": 140,
+            "image": "https://cpizza.fr/wp-content/uploads/2022/06/chick-naan-pizza-640x640.png",
+            "category": "PIZZAS SIGNATURES"
+        },
+        {
+            "id": 5,
+            "name": "NORDIC",
+            "description": "Crème fraîche, mozzarella, saumon fumé, pommes de terre, oignons rouges, filet de fromage boursin®, aneth, citron.",
+            "price": 145,
+            "image": "https://cpizza.fr/wp-content/uploads/2022/06/nordic-pizza-640x640.png",
+            "category": "PIZZAS SIGNATURES"
+        },
+        {
+            "id": 6,
+            "name": "L'ARTICHAUT",
+            "description": "Sauce tomate, mozzarella, champignons, thon, artichauts, tomates cerises, poivrons, oignons rouges, olives.",
+            "price": 135,
+            "image": "https://cpizza.fr/wp-content/uploads/2022/02/artichaut-pizza-640x640.png",
+            "category": "PIZZAS SIGNATURES"
+        },
+        {
+            "id": 7,
+            "name": "BLANCHEESE",
+            "description": "Crème fraîche, emmental râpé, bûche de chèvre, gorgonzola, reblochon, parmigiano reggiano, filet d'huile d'olive aux épices bio, origan.",
+            "price": 120,
+            "image": "https://cpizza.fr/wp-content/uploads/2022/02/blancheese-pizza-640x640.png",
+            "category": "PIZZAS SIGNATURES"
+        },
+        {
+            "id": 8,
+            "name": "CHAMONIX",
+            "description": "Crème fraîche, mozzarella, bacon, pommes de terre, oignons rouges, reblochon, fromage à raclette.",
+            "price": 150,
+            "image": "https://cpizza.fr/wp-content/uploads/2022/02/chamonix-pizza-640x640.png",
+            "category": "PIZZAS SIGNATURES"
+        },
+        {
+            "id": 9,
+            "name": "RATATOUILLE",
+            "description": "Sauce tomate, mozzarella, aubergines grillées et marinées, poivrons, oignons rouges, tomates cerises, olives.",
+            "price": 100,
+            "image": "https://cpizza.fr/wp-content/uploads/2022/06/ratatouille-pizza-640x640.png",
+            "category": "PIZZAS SIGNATURES"
+        },
+        {
+            "id": 10,
+            "name": "JAMBONZOLA",
+            "description": "Sauce tomate, mozzarella di bufala, jambon, emmental râpé, gorgonzola, tomates cerises, olives.",
+            "price": 120,
+            "image": "https://cpizza.fr/wp-content/uploads/2022/06/jambonzola-pizza-640x640.png",
+            "category": "PIZZAS SIGNATURES"
+        },
+        {
+            "id": 11,
+            "name": "CHICK'N'BBQ",
+            "description": "Sauce barbecue, mozzarella, cheddar fondu, bacon, poulet rôti, oignons rouges.",
+            "price": 145,
+            "image": "https://cpizza.fr/wp-content/uploads/2022/02/chick-n-bbq-pizza-640x640.png",
+            "category": "PIZZAS SIGNATURES"
+        },
+        {
+            "id": 12,
+            "name": "LHOT SALSA",
+            "description": "Sauce salsa, mozzarella, poulet rôti, poivrons, piments jalapeños, oignons rouges.",
+            "price": 135,
+            "image": "https://cpizza.fr/wp-content/uploads/2022/02/hot-salsa-pizza-640x640.png",
+            "category": "PIZZAS SIGNATURES"
+        },
+        {
+            "id": 13,
+            "name": "CHICKEN",
+            "description": "Crème fraîche, mozzarella, poulet fumé, pommes de terre.",
+            "price": 120,
+            "image": "https://cpizza.fr/wp-content/uploads/2022/06/chicken-pizza-640x640.png",
+            "category": "PIZZAS BASE CRÈME FRAÎCHE"
+        },
+        {
+            "id": 14,
+            "name": "PAYSANNE",
+            "description": "Crème fraîche, mozzarella, jambon, pommes de terre, oignons rouges.",
+            "price": 130,
+            "image": "https://cpizza.fr/wp-content/uploads/2022/02/paysanne-pizza-640x640.png",
+            "category": "PIZZAS BASE CRÈME FRAÎCHE"
+        },
+        {
+            "id": 15,
+            "name": "CHÈVROMIEL",
+            "description": "Crème fraîche, mozzarella, jambon, bûche de chèvre, filet de miel bio.",
+            "price": 90,
+            "image": "https://cpizza.fr/wp-content/uploads/2022/02/chevromiel-pizza-640x640.png",
+            "category": "PIZZAS BASE CRÈME FRAÎCHE"
+        },
+        {
+            "id": 16,
+            "name": "BAC'N'CHEDDAR",
+            "description": "Crème fraîche, mozzarella, cheddar fondu, bacon, boeuf haché, oeuf.",
+            "price": 140,
+            "image": "https://cpizza.fr/wp-content/uploads/2022/02/bac-n-cheddar-pizza-640x640.png",
+            "category": "PIZZAS BASE CRÈME FRAÎCHE"
+        },
+        {
+            "id": 17,
+            "name": "SAVOYARDE",
+            "description": "Crème fraîche, mozzarella, jambon, champignons, pommes de terre, oignons rouges, fromage à raclette.",
+            "price": 145,
+            "image": "https://cpizza.fr/wp-content/uploads/2022/02/savoyarde-pizza-640x640.png",
+            "category": "PIZZAS BASE CRÈME FRAÎCHE"
+        },
+        {
+            "id": 18,
+            "name": "SAUMON",
+            "description": "Crème fraîche, mozzarella, saumon fumé, aneth, citron.",
+            "price": 135,
+            "image": "https://cpizza.fr/wp-content/uploads/2022/06/saumon-pizza-640x640.png",
+            "category": "PIZZAS BASE CRÈME FRAÎCHE"
+        },
+        {
+            "id": 19,
+            "name": "BOURSIFLETTE",
+            "description": "Crème fraîche, mozzarella, poulet fumé, lardons, pommes de terre, filet de fromage boursin®.",
+            "price": 120,
+            "image": "https://cpizza.fr/wp-content/uploads/2022/06/boursiflette-pizza-640x640.png",
+            "category": "PIZZAS BASE CRÈME FRAÎCHE"
+        },
+        {
+            "id": 20,
+            "name": "WEST COAST",
+            "description": "Crème fraîche, mozzarella, champignons, poulet rôti, poivrons.",
+            "price": 150,
+            "image": "https://cpizza.fr/wp-content/uploads/2022/02/west-coast-pizza-640x640.png",
+            "category": "PIZZAS BASE CRÈME FRAÎCHE"
+        },
+        {
+            "id": 21,
+            "name": "TARTIFLETTE",
+            "description": "Crème fraîche, mozzarella, lardons, pommes de terre, oignons rouges, reblochon.",
+            "price": 100,
+            "image": "https://cpizza.fr/wp-content/uploads/2022/02/tartiflette-pizza-640x640.png",
+            "category": "PIZZAS BASE CRÈME FRAÎCHE"
+        }
+    ],
+    "TopPizzas": [{
+            "id": 1,
+            "name": "Bavarois",
+            "description": "Farine italienne, sauce tomate entière, mozzarella, pepperoni, saucisses de chasse, poivron, olives, sauce pesto, origan",
+            "image": "https://i.imgur.com/PE1o2PK.png"
+        },
+        {
+            "id": 2,
+            "name": "Saumon",
+            "description": "Farine italienne, sauce tomate entière, mozzarella, saumon, tomates, épinards, Dorblu, ail, citron, pignons de pin, olives, origan.",
+            "image": "https://i.imgur.com/HvxhxlJ.png"
+        },
+        {
+            "id": 3,
+            "name": "Prosciuto",
+            "description": "Farine italienne, sauce tomate entière, mozzarella, roquette, cerise, tomate séchée, câpres, origan, parmesan",
+            "image": "https://i.imgur.com/3DQ1Xam.png"
+        },
+        {
+            "id": 4,
+            "name": "Margarita",
+            "description": "Farine italienne, sauce tomate entière, mozzarella, tomates, sauce pesto, origan.",
+            "image": "https://i.imgur.com/cjyAp6p.png"
+        }
+    ],
+    "Sauces": [{
+            "id": 1,
+            "name": "Barbecue américain",
+            "image": "https://i.imgur.com/A3f41Z9.png"
+        },
+        {
+            "id": 2,
+            "name": "Basilacea",
+            "image": "https://i.imgur.com/bQ5M5ea.png"
+        },
+        {
+            "id": 3,
+            "name": "Ail",
+            "image": "https://i.imgur.com/3tl8AYU.png"
+        },
+        {
+            "id": 4,
+            "name": "Moutarde orange",
+            "image": "https://i.imgur.com/lqaxIWU.png"
+        },
+        {
+            "id": 5,
+            "name": "Sauce César",
+            "image": "https://i.imgur.com/MMmGUZt.png"
+        }
+    ]
 }
